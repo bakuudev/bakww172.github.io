@@ -11,36 +11,36 @@
 <body>
     <style>
         section {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    background: rgb(170, 172, 171);
-}
-main {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background: rgb(170, 172, 171);
-}
-footer {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
-    background-color: rgb(76, 176, 194);
-    opacity: 0.9;
-    height: 250px;
-    padding: 10px;
-}
-img{
-    border-radius: 12px;
-}
-.ff{
-    font-size: 20px;
-}
-@media(max-width:400px){
-    .ff{
-        font-size: 10px;
-    }
-}
+            padding-top: 15px;
+            padding-bottom: 15px;
+            background: rgb(170, 172, 171);
+        }
+        main {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            background: rgb(170, 172, 171);
+        }
+        footer {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 25px;
+            background-color: rgb(76, 176, 194);
+            opacity: 0.9;
+            height: 250px;
+            padding: 10px;
+        }
+        img{
+            border-radius: 12px;
+        }
+        .ff{
+            font-size: 20px;
+        }
+        @media(max-width:400px){
+            .ff{
+                font-size: 10px;
+            }
+        }
     </style>
     <header >
         <nav class="navbar navbar-dark bg-dark">
